@@ -205,7 +205,7 @@ Ollama允许用户根据自己的需求对模型进行自定义。这包括调�
 
 * 创建一个临时的模型存储文件夹，用于临时保存一会儿要下载的模型权重文件，比如我创建了**E:\LinShi\qwen2.5-3b**文件夹：
 
-![image-20251122170839679](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20251122170839679.png)
+![image-20251122170839679](\pics\image-20251122170839679.png)
 
 * 随后在**qwen2.5-3b**文件夹内，右键新建一个**文本文档（.txt）**，然后将这个**txt文件**的**.txt后缀**删掉，并命名为**Modelfile**。
 
