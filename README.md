@@ -300,3 +300,13 @@ Ollama允许用户根据自己的需求对模型进行自定义。这包括调�
 * Linux：/var/lib/ollama/models
 * Windows：C:\ProgramData\Ollama\models
 * macOS：/Library/Application Support/Ollama/models
+
+# Chatbox 连接本地 Ollama 服务
+ollama不作任何配置的话只能在命令行中对话，Chatbox 可以很好地连接到 Ollama 服务，提供一种可视化良好的对话方式，使用本地模型时可以获取 Chatbox 提供的更多强大功能，比如 Artifact Preview、文件解析、会话话题管理、Prompt 管理等。
+
+安装和配置流程如下：
+
+* 在官网上下载安装Chatbox-1.17.1-Setup，按照流程一步步安装。
+* 进入界面后，点击设置：
+
+
